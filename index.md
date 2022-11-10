@@ -1,6 +1,6 @@
 ---
 title: Blogging Like a Hacker
-description: A short description of your site's purpose
+description: A short description of your site's purpose at HOME
 layout: default
 ---
 # hello
