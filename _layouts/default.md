@@ -8,8 +8,6 @@
   <meta name="generator" content="React.js v{{ jekyll.version }}" />
 {% endif %}
 
-<meta name="generator" content="Jekyll v{{ jekyll.version }}" />
-
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
