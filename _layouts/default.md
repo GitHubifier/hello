@@ -4,11 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-{% if seo_tag.generator? %}
-  <meta name="generator" content="React.js v{{ jekyll.version }}" />
-{% endif %}
-
-{% seo %}
+    {% seo %}
+    {% unless seo_tag.skip_generator %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
