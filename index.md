@@ -1,6 +1,6 @@
 ---
 title: Abdallah Hassan
-description: Frontend Developer
+description: You can initialize this repository with code from a Subversion, Mercurial, or TFS project. at HOMEPAGE
 layout: default
 ---
 # Abdallah Hassan
