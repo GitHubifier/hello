@@ -1,2 +1,10 @@
 title: Jekyll Theme Primer
 description: Primer is a Jekyll theme for GitHub Pages
+social:
+  name: Ben Balter
+  links:
+    - https://twitter.com/BenBalter
+    - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/BenBalter
+    - https://github.com/benbalter
+    - https://keybase.io/benbalter
